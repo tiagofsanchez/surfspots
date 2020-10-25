@@ -25,7 +25,7 @@ function App() {
         Just Playing With Maps
       </h1>
       <p>
-        Mapping some of my favorite surf spots on{" "}
+        Mapping some of my favorite surf spots using{" "}
         <span style={{ fontWeight: `bold`, color: `#d23669` }}>
           react-leaflet
         </span>

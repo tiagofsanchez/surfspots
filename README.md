@@ -2,6 +2,6 @@
 
 Playing with [react-leaflet](https://react-leaflet.js.org/)
 
- ![maps](../maps/src/images/landing.png)
+ ![maps](./src/images/landing.png)
 
 

@@ -15,7 +15,6 @@ const SurfSpotMaps = () => {
   const surfSpots = useSpots();
   const [activeSpot, setActiveSpot] = React.useState(null);
 
-  console.log(surfSpots);
   return (
     <div>
       {surfSpots.isLoading ? (
